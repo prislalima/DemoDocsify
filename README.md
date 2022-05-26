@@ -1,22 +1,8 @@
+# OpensourceDotComDemos
+Sample example projects referenced for opensource.com articles
 
-<html>
-<head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <title>Documentação Online</title>
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      el: "#app",
-      repo: 'https://github.com/prislalima/DemoDocsify/tree/master/DocsifyDemo',
-      loadSidebar: true
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-</body>
-</html>
+This repository contains the sample source codes referenced through my Opensource.com articles. Feel free to download and use them.
+
+
+
 
